@@ -16,13 +16,5 @@ By simply providing a prompt such as "2 days trip to London with budget $1000," 
 - **Prime Experiences:** Immerse yourself in unforgettable moments curated just for you.
 - **Expense Tracker:** Effectively track your expenses throughout your journey and can revisit later as well.
 - **Email Invite:** Invite your friend and colleagues to your desired plan and collaborate together.
-## Architecture
-![Architecture Diagram](/.eraser/ITHfX2CmBRfVZimKKniY___02a0ac4RaOW4qPyzxPn66zodRbA3___---figure---ve0MOtPUnuyQd2KhDYy9V---figure---s1GcusGonEODvuhKC9v8rQ.png "Architecture Diagram")
-
-![Email Flow](/.eraser/ITHfX2CmBRfVZimKKniY___02a0ac4RaOW4qPyzxPn66zodRbA3___---figure---6HMnI9tpLngtE2PcNIhPL---figure---wYeVIfbY5wm_ADKyKI0VPQ.png "Email Flow")
-
-
-
-
 
 <!--- Eraser file: https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY --->
