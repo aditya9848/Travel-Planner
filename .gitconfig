@@ -1,0 +1,8 @@
+#Default GitHub 
+Host github.com
+  HostName github.com
+  User git
+
+[user]
+    name = Lakshmi Aditya
+    email = lakshmiadita12345@gmail.com
