@@ -10,9 +10,6 @@ By simply providing a prompt such as "2 days trip to London with budget $1000," 
 
 ![image](https://github.com/hardikverma22/travel-planner-ai/assets/26103679/de21a51b-6d95-427c-a00a-b919dd09c56e "")
 
-## Demo
-Check out the live demo [﻿here](https://travelplannerai.online/).
-
 ## Key Functional Features
 - **Top Spots Unveiled:** Discover hidden gems and popular attractions effortlessly.
 - **Tailored Itineraries:** Plan your days seamlessly with custom-tailored schedules.
